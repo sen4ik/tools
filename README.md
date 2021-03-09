@@ -20,3 +20,6 @@
  * [Everything](https://www.voidtools.com/) - search files and folders instantly. Windows only.
  * [Launchy](https://www.launchy.net/)
  * [Keepass](https://keepass.info/download.html)
+
+## Docker
+ * [ctop](https://github.com/bcicen/ctop)
