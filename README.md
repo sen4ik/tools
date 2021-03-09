@@ -11,6 +11,9 @@
  * [Monosnap](https://monosnap.com/download/mac) - MacOS and Windows.
 
 ## QA
+ * [Selenoid](https://aerokube.com/selenoid/latest/)
+ * [Selenide](https://selenide.org/)
+ * [Moon](https://aerokube.com/moon/latest/)
  * [Selectorshub](https://selectorshub.com/) - xpath and css selector browser plugin that is actually smart enough to grab good loking relative paths.
 
 ## Windows
