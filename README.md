@@ -1,15 +1,5 @@
 # tools
 
-## Contents
- * [Screenshots](#Screenshots)
- * [QA](#QA)
-
-## Screenshots
- * [Sharex](https://getsharex.com/) - Windows only.
- * [Flameshot](https://github.com/flameshot-org/flameshot) - Linux and Windows.
- * [Greenshot](https://getgreenshot.org/) - Windows only.
- * [Monosnap](https://monosnap.com/download/mac) - MacOS and Windows.
-
 ## QA
  * [Selenoid](https://aerokube.com/selenoid/latest/)
  * [Selenide](https://selenide.org/)
@@ -20,6 +10,12 @@
  * [Everything](https://www.voidtools.com/) - search files and folders instantly. Windows only.
  * [Launchy](https://www.launchy.net/)
  * [Keepass](https://keepass.info/download.html)
+
+## Screenshots
+ * [Sharex](https://getsharex.com/) - Windows only.
+ * [Flameshot](https://github.com/flameshot-org/flameshot) - Linux and Windows.
+ * [Greenshot](https://getgreenshot.org/) - Windows only.
+ * [Monosnap](https://monosnap.com/download/mac) - MacOS and Windows.
 
 ## Docker
  * [ctop](https://github.com/bcicen/ctop)
