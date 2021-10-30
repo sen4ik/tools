@@ -19,3 +19,8 @@
 
 ## Docker
  * [ctop](https://github.com/bcicen/ctop)
+
+## macOS
+ * [iTerm2](https://iterm2.com)
+ * Monosnap
+ * Spectacle
