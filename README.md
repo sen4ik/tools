@@ -22,5 +22,4 @@
 
 ## macOS
  * [iTerm2](https://iterm2.com)
- * Monosnap
  * Spectacle
